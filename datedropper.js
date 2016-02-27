@@ -519,6 +519,32 @@
 					'Lauantai'
 				];
 				break;
+			//finnish
+			case 'vi':
+				var monthNames = [
+					"Thg Một",
+					"Thg Hai",
+					"Thg Ba",
+					"thag Tư",
+					"Thg Năm",
+					"Thg Sáu",
+					"Thg Bảy",
+					"Thg Tám",
+					"Thg Chín",
+					"Thg Mười",
+					"Thg Mười Một",
+					"Thg Mười Hai"
+				];
+				var dayNames = [
+					'Chủ Nhật',
+					'Thứ Hai',
+					'Thứ Ba',
+					'Thứ Tư',
+					'Thứ Năm',
+					'Thứ Sáu',
+					'Thứ Bảy'
+				];
+				break;
 			//english	
 			default:
 				var monthNames = [

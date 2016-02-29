@@ -519,7 +519,7 @@
 					'Lauantai'
 				];
 				break;
-			//finnish
+			//vietnamese
 			case 'vi':
 				var monthNames = [
 					"Thg Một",
